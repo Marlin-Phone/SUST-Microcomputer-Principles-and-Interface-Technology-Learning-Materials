@@ -1,6 +1,7 @@
-# 陕西科技大学-微机原理与接口技术实验
+# 陕西科技大学-微机原理与接口技术学习资料
 <!-- 需要将以下所有的 SUST-Microcomputer-Principles-and-Interface-Technology-Learning-Materials 修改为 当前仓库 名称-->
 <p align="center">
+  <img src="https://img.shields.io/github/repo-size/marlin-phone/SUST-Microcomputer-Principles-and-Interface-Technology-Learning-Materials.svg?style=flat">
   <img src="https://img.shields.io/github/last-commit/marlin-phone/SUST-Microcomputer-Principles-and-Interface-Technology-Learning-Materials?logo=github&color=success" alt="last commit"/>
   <img src="https://img.shields.io/github/commit-activity/w/marlin-phone/SUST-Microcomputer-Principles-and-Interface-Technology-Learning-Materials" alt="commit activity"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marlin-phone.SUST-Microcomputer-Principles-and-Interface-Technology-Learning-Materials" alt="visitors"/> 
